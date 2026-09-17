@@ -1,0 +1,6 @@
+{
+    "apiservice_host": "http://127.0.0.1:7350/api",
+    "login_host": "ws://127.0.0.1:7350/ws?format=evr&token=defaultkey&discordid=917594868560310323&password=password",
+    "serverdb_host": "ws://127.0.0.1:7350/ws?format=evr&token=defaultkey&discordid=917594868560310323&password=password&regions=default,us-central-1",
+    "publisher_lock": "echovrce"
+}
